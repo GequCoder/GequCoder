@@ -1,11 +1,15 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on development of a system for automating the process of extinguishing electronic veterinary accompanying documents.
+
 <!--
 **GequCoder/GequCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
+
+- 🔭 I’m currently working on development of a system for automating the process of extinguishing electronic veterinary accompanying documents.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
